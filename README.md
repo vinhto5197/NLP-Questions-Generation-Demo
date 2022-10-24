@@ -1,2 +1,5 @@
 # NLP-Questions-Generation-Demo
-Demo deployed on Heroku for https://github.com/vinhto5197/NLP-Questions-Generation
+Deployed on Heroku: https://nlp-questions-generation.herokuapp.com/
+
+## Full Code
+https://github.com/vinhto5197/NLP-Questions-Generation
