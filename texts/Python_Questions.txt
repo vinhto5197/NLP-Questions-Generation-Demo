@@ -1,0 +1,19 @@
+What allows elements to be skipped and reversed?
+
+What was ranked as Programming Language of the year for the year 2007 and 2010?
+
+Who provides a round function for rounding a float to the nearest integer?
+
+What provides constructs intended to enable clear programs on both a small and large scale?
+
+What is a programming language that cross-compiles to JavaScript?
+
+What is in the fifth position?
+
+What released a Python interpreter for the Series 60 mobile phones called PyS60?
+
+What uses Python as a pretty printer to show complex structures such as C++ containers?
+
+What single and quotation marks function identically?
+
+What are interpreted?
